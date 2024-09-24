@@ -35,3 +35,25 @@ The dataset includes the following features:
 25. **Amount_invested_monthly**: Amount invested by the customer each month (in USD).
 26. **Payment_Behaviour**: The general payment behavior of the customer.
 27. **Monthly_Balance**: Monthly balance amount after expenses (in USD).
+
+
+## Project Structure
+
+The project consists of the following files:
+
+- `credit_score_detection.ipynb`: The main notebook where the analysis and model development are performed.
+- `README.md`: This file, containing information about the project and instructions for usage.
+
+## Setup
+
+### Prerequisites
+
+To run this project, you need to install the following Python libraries:
+
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
+- `xgboost`
+- `imblearn`
