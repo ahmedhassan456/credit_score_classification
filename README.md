@@ -37,13 +37,6 @@ The dataset includes the following features:
 27. **Monthly_Balance**: Monthly balance amount after expenses (in USD).
 
 
-## Project Structure
-
-The project consists of the following files:
-
-- `credit_score_detection.ipynb`: The main notebook where the analysis and model development are performed.
-- `README.md`: This file, containing information about the project and instructions for usage.
-
 ## Setup
 
 ### Prerequisites
