@@ -57,6 +57,7 @@ To run this project, you need to install the following Python libraries:
 - `scikit-learn`
 - `xgboost`
 - `imblearn`
+- `optuna`
 
 You can install the required libraries by running:
 
@@ -72,3 +73,13 @@ Ensure the dataset is available in the correct format before running the noteboo
 1. Open the Jupyter notebook: `credit_score_detection.ipynb`.
 2. Run the cells sequentially to load the dataset, perform exploratory data analysis (EDA), and train the model.
 3. The notebook will guide you through various stages of data preprocessing, feature engineering, model building, and evaluation.
+
+
+## Model
+
+The model is built to predict credit scores using various classification algorithms. The current implementation uses the following algorithms:
+
+- XGBoost Classifier
+- Optuna
+
+The model's performance is evaluated using accuracy, precision, recall, and F1-score. Feature importance is also visualized to understand the key drivers of credit scores.
