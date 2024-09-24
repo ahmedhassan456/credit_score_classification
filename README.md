@@ -57,3 +57,18 @@ To run this project, you need to install the following Python libraries:
 - `scikit-learn`
 - `xgboost`
 - `imblearn`
+
+You can install the required libraries by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Dataset
+
+Ensure the dataset is available in the correct format before running the notebook. You can place the dataset file in the same directory as the notebook.
+
+## Usage
+1. Open the Jupyter notebook: `credit_score_detection.ipynb`.
+2. Run the cells sequentially to load the dataset, perform exploratory data analysis (EDA), and train the model.
+3. The notebook will guide you through various stages of data preprocessing, feature engineering, model building, and evaluation.
