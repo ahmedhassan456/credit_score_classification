@@ -83,3 +83,7 @@ The model is built to predict credit scores using various classification algorit
 - Optuna
 
 The model's performance is evaluated using accuracy, precision, recall, and F1-score. Feature importance is also visualized to understand the key drivers of credit scores.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
